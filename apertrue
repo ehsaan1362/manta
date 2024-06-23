@@ -89,10 +89,10 @@ dist
 # public
 
 # vuepress build output
-.vuepress/dist
+.vuepress/dist..
 
 # Serverless directories
-.serverless/
+.serverless/..
 
 # FuseBox cache
 .fusebox/
@@ -103,7 +103,7 @@ dist
 # TernJS port file
 .tern-port
 
-# macOS
+# macOS..
 .DS_Store
 
 # python..
